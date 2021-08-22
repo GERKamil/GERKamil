@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GERKamil
+- 👀 I’m interested in softmoding gaming consoles and gaming on raspberry pi.
+- 🌱 I’m currently learning nothing special but I'm interested in everything about cool electronics and gaming.
+- 💞️ I’m looking to collaborate on new technologies to play retro games on medern hardware.
+- 📫 How to reach me? Search for GERKamil all over the web. :)
